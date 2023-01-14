@@ -1,0 +1,22 @@
+.header1{
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar{
+    display: flex;
+    position: relative;
+    border: 2px solid black;
+    justify-content: space-evenly;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.ulist{
+    display: table;
+    margin: 0 auto;
+    top: 50px;
+}

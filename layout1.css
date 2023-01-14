@@ -1,0 +1,62 @@
+.group{
+    position: absolute;
+}
+
+.header1{
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar{
+    display: flex;
+    position: relative;
+    border: 2px solid black;
+    justify-content: space-evenly;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.h2-1{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.para1{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.h2-2{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.para2{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.h2-3{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.para3{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}

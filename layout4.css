@@ -1,0 +1,62 @@
+.header1{
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar{
+    display: flex;
+    position: relative;
+    border: 2px solid black;
+    justify-content: space-evenly;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.images{
+    display: grid;
+    position: relative;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    margin: 0 auto;
+    padding: 10px;
+    left: 150px;
+}
+
+.aurora1{
+    height: 300px;
+    width: 200px;
+    padding: 10px;
+}
+
+.aurora2{
+    height: 300px;
+    width: 200px;
+    padding: 10px;
+}
+
+.aurora3{
+    height: 300px;
+    width: 200px;
+    padding: 10px;
+}
+
+.aurora4{
+    height: 300px;
+    width: 200px;
+    padding: 10px;
+}
+
+.aurora5{
+    height: 300px;
+    width: 200px;
+    padding: 10px;
+}
+
+.aurora6{
+    height: 300px;
+    width: 200px;
+    padding: 10px;
+}
